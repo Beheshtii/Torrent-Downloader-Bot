@@ -78,8 +78,8 @@ You will need:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Beheshtii/TorrentDownloader.git
-cd TorrentDownloader
+git clone https://github.com/Beheshtii/Torrent-Downloader-Bot.git
+cd Torrent-Downloader-Bot
 ```
 
 ---
